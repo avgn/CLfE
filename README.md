@@ -1,1 +1,1 @@
-# Modeling MSCI World index using ARCH and GARCH models
+# Modeling FTSE Mib stock index using ARCH and GARCH models
